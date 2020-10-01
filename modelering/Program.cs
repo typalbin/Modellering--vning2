@@ -14,6 +14,7 @@ namespace modelering
             moPed.y = 20;
 
             moPed.z = 5;
+            
 
             System.Console.WriteLine(moPed.y);
 
